@@ -1,0 +1,11 @@
+C:\Users\sakal\OneDrive\Masaüstü\Yasir\Kosucu\Kosucu\bin\Debug\Kosucu.exe.config
+C:\Users\sakal\OneDrive\Masaüstü\Yasir\Kosucu\Kosucu\bin\Debug\Kosucu.exe
+C:\Users\sakal\OneDrive\Masaüstü\Yasir\Kosucu\Kosucu\bin\Debug\Kosucu.pdb
+C:\Users\sakal\OneDrive\Masaüstü\Yasir\Kosucu\Kosucu\obj\Debug\Kosucu.csprojResolveAssemblyReference.cache
+C:\Users\sakal\OneDrive\Masaüstü\Yasir\Kosucu\Kosucu\obj\Debug\Kosucu.Form1.resources
+C:\Users\sakal\OneDrive\Masaüstü\Yasir\Kosucu\Kosucu\obj\Debug\Kosucu.Properties.Resources.resources
+C:\Users\sakal\OneDrive\Masaüstü\Yasir\Kosucu\Kosucu\obj\Debug\Kosucu.csproj.GenerateResource.Cache
+C:\Users\sakal\OneDrive\Masaüstü\Yasir\Kosucu\Kosucu\obj\Debug\Kosucu.csproj.CoreCompileInputs.cache
+C:\Users\sakal\OneDrive\Masaüstü\Yasir\Kosucu\Kosucu\obj\Debug\Kosucu.exe
+C:\Users\sakal\OneDrive\Masaüstü\Yasir\Kosucu\Kosucu\obj\Debug\Kosucu.pdb
+C:\Users\sakal\OneDrive\Masaüstü\Yasir\Kosucu\Kosucu\obj\Debug\Kosucu.Form2.resources
